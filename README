@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2755
+
+Made few modification on system's evening color scheme:
+1. Change the text color from white to grey
+2. Change the string and number's background color
